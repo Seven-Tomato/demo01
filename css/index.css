@@ -11,7 +11,7 @@
 }
 /*头部*/
 P{margin-bottom:0.4rem;}
-.header{width:100% ; background-color: #000000;color:white ;overflow: hidden;
+.header{width:100% ; background-color:red;color:white ;overflow: hidden;
         font-size:1rem ;padding:0.5rem 0 ;position:fixed ;z-index:100 ;}
 .car_box .img_01{width:100% ;height:auto ;}
 .car{width:1.4rem;height:1.4rem;}
